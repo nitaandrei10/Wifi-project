@@ -1,0 +1,12 @@
+# Build output & temporary files
+build/
+managed_components/
+dependencies.lock
+
+# ESP-IDF generated configs
+sdkconfig
+sdkconfig.old
+
+# Editor folders
+.vscode/
+.idea/
